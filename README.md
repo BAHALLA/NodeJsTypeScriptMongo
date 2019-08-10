@@ -1,3 +1,3 @@
 # NodeJsTypeScriptMongo
 
-Create Rest API Using nodeJs with type script and mongodb
+Create Rest API Using nodeJs with typescript and mongodb
